@@ -68,7 +68,7 @@ Aunque el proyecto se diseñó como una solución de ejecución local, su códig
 
 ### 2. Clonar el Repositorio
 ```bash
-git clone https://github.com/TuUsuario/Proyecto_Municipalidad_Escazu.git
+git clone https://github.com/asporras7-dev/Proyecto_Municipalidad_Escazu.git
 cd Proyecto_Municipalidad_Escazu
 ```
 
