@@ -114,7 +114,9 @@ Proyecto_Municipalidad_Escazu/
 │   └── services/         # Servicios aislados para peticiones Fetch/API
 ├── server.js             # Orquestador Node.js / Express API
 ├── db.json               # Base de datos simulada (Relaciones de Usuarios, Proyectos, etc.)
-└── package.json          # Dependencias del proyecto (Express, Nodemon)
+├── package.json          # Dependencias del proyecto (Express, Nodemon)
+├── package-lock.json     # Árbol de dependencias bloqueado
+└── .gitignore            # Archivos excluidos del control de versiones
 ```
 </details>
 
