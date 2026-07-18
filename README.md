@@ -37,7 +37,7 @@ El ecosistema digital está segmentado mediante un sistema de Control de Acceso 
 
 ---
 
-## Valor de Negocio y Logros Técnicos (Highlights para Reclutadores)
+## Valor de Negocio y Logros Técnicos
 
 Este proyecto (GovTech) destaca por aplicar conceptos fundamentales y robustos de desarrollo *Full-Stack* bajo una arquitectura limpia y altamente escalable:
 
