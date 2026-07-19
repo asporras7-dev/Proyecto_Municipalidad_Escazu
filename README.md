@@ -1,6 +1,6 @@
 # Portal Municipalidad de Escazú
 
-Solución web orientada a la atención ciudadana para un gobierno local. Este portal digitaliza la interacción entre los habitantes del municipio y la administración, facilitando consultas, gestión de trámites cívicos y la comunicación directa mediante interfaces claras y accesibles.
+Solución web orientada a la atención ciudadana y gestión interna para la municipalidad de Escazú. Este portal digitaliza la interacción y operaciones entre los habitantes del municipio y la administración del gobierno local, facilitando consultas, pagos de servicios municipales y gestión de proyectos cívicos, junto con un módulo de gestion de planilla.
 
 ---
 
